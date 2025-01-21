@@ -11,6 +11,7 @@ int main()
     cout << "Hoorayy!!" << endl;
     cout << "Yeehaww" << endl;
     cout << "Lol." << endl;
+    cout << "Tryingggg";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
