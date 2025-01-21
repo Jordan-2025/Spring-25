@@ -9,6 +9,8 @@ int main()
 {
     cout << "Hello World! This is Jordan Franklin!!\n";
     cout << "Hoorayy!!" << endl;
+    cout << "Yeehaww" << endl;
+    cout << "Lol." << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
